@@ -1,1 +1,1 @@
-I am looking to understand how to design effective veterinary vaccine dosages of RNA vaccines given a&#x20;
+I am looking to understand how to design effective veterinary vaccine dosages of RNA vaccines given a body&#x20;
