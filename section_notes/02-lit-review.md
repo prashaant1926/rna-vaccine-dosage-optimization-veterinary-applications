@@ -1,1 +1,1 @@
-There has been research testing RNA vaccines in horses and elephants. What other animals are&#x20;
+There has been research testing RNA vaccines in horses and elephants. What other animal studies ha
