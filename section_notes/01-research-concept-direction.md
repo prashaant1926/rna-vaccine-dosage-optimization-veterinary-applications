@@ -1,5 +1,3 @@
-# Research Concept & Direction: RNA Vaccine Dosage Optimization for Veterinary Applications
-
 ## Research Problem
 
 **Core Question**: How can we design effective dosing regimens for mRNA vaccines in veterinary applications across species of varying body weights and physiological characteristics?
