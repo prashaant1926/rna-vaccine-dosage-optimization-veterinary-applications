@@ -1,1 +1,1 @@
-I am looking to understand how to design effective veterinary vaccine dosages of RNA vaccines given a body weight in
+I am looking to understand how to design effective veterinary vaccine dosages of RNA vaccines given a body weight input
